@@ -1,0 +1,39 @@
+{
+     "employee_details": [
+          {
+               "employee_name": "Sudarshan",
+               "DOB": "16/12/2000",
+               "Height": "5.9",
+               "City": "Bengaluru",
+               "State": "Karnataka"
+          },
+          {
+               "employee_name": "Srinivas",
+               "DOB": "17/04/1998",
+               "Height": "5.8",
+               "City": "Pune",
+               "State": "Maharashtra"
+          },
+          {
+               "employee_name": "Sashank",
+               "DOB": "14/07/2001",
+               "Height": "5.6",
+               "City": "Bidar",
+               "State": "Karnataka"
+          },
+          {
+               "employee_name": "Shantkumar",
+               "DOB": "20/06/2000",
+               "Height": "5.9",
+               "City": "Bengaluru",
+               "State": "Karnataka"
+          },
+          {
+               "employee_name": "Avinash",
+               "DOB": "15/11/1994",
+               "Height": "5.7",
+               "City": "Bengaluru",
+               "State": "Karnataka"
+          }
+     ]
+}
